@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://liztino.github.iohttps://liztino.github.io/sitemap.xml
+Sitemap: https://liztino.github.io/sitemap.xml
