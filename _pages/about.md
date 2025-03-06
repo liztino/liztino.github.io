@@ -23,7 +23,6 @@ latest_posts:
   scrollable: False # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi, I'm Liz and I'm a postdoctoral fellow at the [Space Telescope Science Institute](https://www.stsci.edu/home) in the [ISM* group](https://www.ismstar.space/). I'm an observational astronomer that is broadly interested in understanding the multiphase nature of the interstellar medium in nearby galaxies. I love working with a variety of telescopes such as JWST, ALMA, HST and the VLA. My favorite objects are star-forming dwarf galaxies and I aim to understand the impact these low metallicity galaxies have on their stars and ISM. 
+Hi, I'm Liz and I'm a postdoctoral fellow at the [Space Telescope Science Institute](https://www.stsci.edu/home) in the [ISM* group](https://www.ismstar.space/). I'm an observational astronomer that is broadly interested in understanding the multiphase nature of the interstellar medium in nearby galaxies, with a focus on metal-poor dwarf galaxies. My research is inherently multiwavelength, and I love working with a variety of telescopes such as JWST, ALMA, HST, GBT, Spitzer, Herschel, and the VLA. 
 
-
-
+I grew up in central New Jersey and received my BS in Astronomy and Physics at Case Western Reserve University in Cleveland, Ohio. I earned my PhD in Astronomy at the University of Maryland under the advisement of Professor Alberto Bolatto. Outside of astronomy, I love live music, tabletop RPGs, and crocheting.
