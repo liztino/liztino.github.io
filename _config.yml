@@ -2,10 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Elizabeth Tarantino # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Elizabeth
-middle_name:
+middle_name: J. 
 last_name: Tarantino
+suffix_name: PhD
 contact_note: >
   Email: etarantino (at) stsci (dot) edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -193,8 +194,8 @@ exclude:
   - vendor
   - _pages/blog.md
   - _pages/repositories.md
-  - _pages/people.md
   - _pages/books.md
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll

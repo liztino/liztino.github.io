@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>  Postdoctoral Fellow </a> Space Telescope Science Institute
 
@@ -8,12 +8,10 @@ profile:
   align: right
   image: Tarantino_pic_GBT.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p> Postdoctoral Fellow </p>
-  #   <p> Space Telescope Science Institute </p>
+  more_info: >
 
 selected_papers: False # includes a list of papers marked as "selected={true}"
-social: False # includes social icons at the bottom of the page
+social: True # includes social icons at the bottom of the page
 
 announcements:
   enabled: False # includes a list of news items
