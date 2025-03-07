@@ -8,7 +8,8 @@ profile:
   align: right
   image: Tarantino_pic_GBT.jpg
   image_circular: false # crops the image to make it circular
-  more_info: A picture of Elizabeth Tarantino at the Green Bank Observatory>
+  more_info: 
+  alt: Dr. Elizabeth Tarantino at the Green Bank Observatory
 
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: True # includes social icons at the bottom of the page
